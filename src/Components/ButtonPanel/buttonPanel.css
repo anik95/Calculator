@@ -1,0 +1,12 @@
+.buttonPanel {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+
+}

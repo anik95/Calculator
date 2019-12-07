@@ -1,0 +1,15 @@
+.button-tile {
+    width: calc(100% / 4);
+    height: calc(100vh / 6);
+    vertical-align: middle;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black; 
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.two-tiles {
+    width: calc(100% / 2) !important;
+}
